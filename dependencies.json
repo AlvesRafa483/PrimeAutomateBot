@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "selenium",
+    "undetected-chromedriver",
+    "flask",
+    "request-promise",
+    "requests"
+  ]
+}
