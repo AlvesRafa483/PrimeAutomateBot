@@ -14,7 +14,8 @@ import requests
 
 # Setup flask server
 app = Flask(__name__)
-nodeApi = "http://localhost:3000"
+# nodeApi = "http://localhost:3000"
+nodeApi = "https://prime-automate-api-fh9hz.ondigitalocean.app"
 
 def initDriver():
     # Inicialização e configuração do webdriver
